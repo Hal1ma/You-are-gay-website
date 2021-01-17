@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color:blue;
+    font-size: 5rem;
+}
+p {
+    color:blueviolet;
+    font-size: 4rem;
+}
+
+#heff {
+    color: cornflowerblue;
+    font-size: 5rem;
+}
+
+#jeff {
+    color: red;
+    font-size: 6rem;
+}
